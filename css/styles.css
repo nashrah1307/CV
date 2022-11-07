@@ -1,0 +1,28 @@
+body {
+  background-color: #EAEAEA;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 5%;
+  border-width: 5px;
+}
+h1{
+  color: #3C4048;
+  font-size: 20px;
+}
+h3{
+  color: #3C4048;
+  font-size: 20px;
+}
+p{
+  font-size: 20px;
+}
+ul {
+  font-size: 20px;
+}
+table {
+  font-size: 20px;
+}
